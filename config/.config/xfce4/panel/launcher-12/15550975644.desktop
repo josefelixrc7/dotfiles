@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Midori
+GenericName=Web Browser
+X-GNOME-Fullname=Midori Web Browser
+Comment=Browse the Web
+X-GNOME-Keywords=Internet;WWW;Explorer
+X-AppInstall-Keywords=Internet;WWW;Explorer
+Categories=GTK;Network;WebBrowser;
+MimeType=text/html;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/geo;image/svg+xml;
+Exec=midori %U
+Icon=org.midori_browser.Midori
+Terminal=false
+StartupNotify=true
+X-GNOME-UsesNotifications=true
+Actions=Private;
+X-Desktop-File-Install-Version=0.23
+X-XFCE-Source=file:///usr/share/applications/org.midori_browser.Midori.desktop
+
+[Desktop Action Private]
+Name=New Private Browsing Window
+Exec=midori --private

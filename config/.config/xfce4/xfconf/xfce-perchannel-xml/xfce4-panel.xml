@@ -40,6 +40,8 @@
         <value type="int" value="8"/>
         <value type="int" value="7"/>
         <value type="int" value="12"/>
+        <value type="int" value="10"/>
+        <value type="int" value="14"/>
         <value type="int" value="11"/>
       </property>
       <property name="position" type="string" value="p=10;x=646;y=999"/>
@@ -72,7 +74,12 @@
     <property name="plugin-12" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="15944993401.desktop"/>
+        <value type="string" value="15550976501.desktop"/>
+        <value type="string" value="15550975644.desktop"/>
       </property>
+      <property name="show-label" type="bool" value="false"/>
+      <property name="move-first" type="bool" value="false"/>
+      <property name="arrow-position" type="uint" value="0"/>
     </property>
     <property name="plugin-15" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>
@@ -106,11 +113,15 @@
       </property>
       <property name="show-frame" type="bool" value="true"/>
       <property name="size-max" type="uint" value="24"/>
-      <property name="square-icons" type="bool" value="false"/>
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="names-hidden" type="array">
+      </property>
     </property>
     <property name="plugin-7" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="15944992641.desktop"/>
+        <value type="string" value="15550977102.desktop"/>
+        <value type="string" value="15550977103.desktop"/>
       </property>
     </property>
     <property name="plugin-9" type="string" value="pulseaudio">
@@ -135,5 +146,18 @@
     </property>
     <property name="plugin-3" type="string" value="places"/>
     <property name="plugin-4" type="string" value="xfce4-orageclock-plugin"/>
+    <property name="plugin-10" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="15550974951.desktop"/>
+        <value type="string" value="15550977404.desktop"/>
+        <value type="string" value="15550977475.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-14" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="15550975192.desktop"/>
+        <value type="string" value="15550975263.desktop"/>
+      </property>
+    </property>
   </property>
 </channel>
