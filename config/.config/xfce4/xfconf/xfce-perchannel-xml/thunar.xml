@@ -12,6 +12,11 @@
   <property name="last-window-width" type="int" value="959"/>
   <property name="last-window-height" type="int" value="589"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_25_PERCENT"/>
-  <property name="last-details-view-column-widths" type="string" value="50,110,50,50,72,50,50,72,50,524"/>
+  <property name="last-details-view-column-widths" type="string" value="50,110,50,50,365,50,50,63,50,260"/>
   <property name="misc-single-click" type="bool" value="false"/>
+  <property name="misc-thumbnail-mode" type="string" value="THUNAR_THUMBNAIL_MODE_ALWAYS"/>
+  <property name="misc-text-beside-icons" type="bool" value="false"/>
+  <property name="shortcuts-icon-emblems" type="bool" value="true"/>
+  <property name="tree-icon-emblems" type="bool" value="true"/>
+  <property name="last-side-pane" type="string" value="ThunarShortcutsPane"/>
 </channel>
