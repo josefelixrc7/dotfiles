@@ -161,9 +161,10 @@
     <property name="plugin-1" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="155509855912.desktop"/>
+        <value type="string" value="15550970431.desktop"/>
       </property>
       <property name="show-label" type="bool" value="false"/>
-      <property name="arrow-position" type="uint" value="4"/>
+      <property name="arrow-position" type="uint" value="3"/>
     </property>
   </property>
 </channel>
