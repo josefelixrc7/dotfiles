@@ -1,0 +1,1006 @@
+INFO 3/30/2020, 9:42:05 PM  cannot parse user config, use the default one
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 3/30/2020, 9:42:07 PM  initSentry
+INFO 3/30/2020, 9:42:07 PM  luanchFromDiffVersion, pre version is undefined
+INFO 3/30/2020, 9:42:07 PM  overwriteThemeFolder
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 3/30/2020, 9:42:07 PM  initCountly
+INFO 3/30/2020, 9:42:07 PM  ------------------start------------------
+INFO 3/30/2020, 9:42:07 PM  typora version: 0.9.70
+DEBUG 3/30/2020, 9:42:07 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 3/30/2020, 9:42:08 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 3/30/2020, 9:42:08 PM  (node:10728) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 3/30/2020, 9:42:08 PM  app.openFile
+DEBUG 3/30/2020, 9:42:09 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 3/30/2020, 9:42:33 PM  window.File && (function(){		File.setTheme();	})();
+INFO 3/30/2020, 9:42:35 PM  window.File && (function(){		File.setTheme();	})();
+INFO 3/30/2020, 9:42:38 PM  window.File && (function(){		File.setTheme();	})();
+INFO 3/30/2020, 9:42:42 PM  window.File && (function(){		File.setTheme();	})();
+INFO 3/30/2020, 9:42:44 PM  window.File && (function(){		File.setTheme();	})();
+INFO 3/30/2020, 9:42:56 PM  addRecentDocument
+INFO 3/30/2020, 9:43:57 PM  window.File && (function(){		File.setTheme();	})();
+INFO 3/30/2020, 9:44:08 PM  window.File && (function(){		File.setTheme();	})();
+INFO 3/30/2020, 10:02:34 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 3:35:20 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 3:35:22 PM  initCountly
+INFO 4/12/2019, 3:35:22 PM  ------------------start------------------
+INFO 4/12/2019, 3:35:22 PM  typora version: 0.9.70
+DEBUG 4/12/2019, 3:35:22 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 4/12/2019, 3:35:22 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/12/2019, 3:35:23 PM  (node:2423) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/12/2019, 3:35:23 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/12/2019, 3:35:23 PM  app.openFile
+INFO 4/12/2019, 4:50:12 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 3/31/2020, 10:51:59 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 3/31/2020, 10:52:01 AM  initCountly
+INFO 3/31/2020, 10:52:01 AM  ------------------start------------------
+INFO 3/31/2020, 10:52:01 AM  typora version: 0.9.70
+DEBUG 3/31/2020, 10:52:02 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 3/31/2020, 10:52:02 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 3/31/2020, 10:52:03 AM  (node:6374) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 3/31/2020, 10:52:03 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 3/31/2020, 10:52:03 AM  app.openFile
+INFO 3/31/2020, 10:54:38 AM  addRecentDocument
+INFO 3/31/2020, 11:05:56 AM  addRecentDocument
+INFO 3/31/2020, 2:24:26 PM  addRecentDocument
+DEBUG 3/31/2020, 2:24:27 PM  lastSync 1585667137080, timestamp 1585667156325, mtime 1585667136711
+INFO 3/31/2020, 2:24:36 PM  addRecentDocument
+INFO 3/31/2020, 2:29:11 PM  addRecentDocument
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 3/31/2020, 2:46:01 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 3/31/2020, 2:46:03 PM  initCountly
+INFO 3/31/2020, 2:46:04 PM  ------------------start------------------
+INFO 3/31/2020, 2:46:04 PM  typora version: 0.9.70
+DEBUG 3/31/2020, 2:46:04 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 3/31/2020, 2:46:04 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 3/31/2020, 2:46:04 PM  (node:2039) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 3/31/2020, 2:46:05 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 3/31/2020, 2:46:05 PM  app.openFile
+INFO 3/31/2020, 2:46:05 PM  addRecentDocument
+DEBUG 3/31/2020, 2:46:38 PM  path /home/josefelixrc/Documents/Projects and bussines/cpwonline/1 - General/2 - Standards/CDNs.txt, win.id = 1
+ERROR 3/31/2020, 2:46:38 PM  wrapExeFunc Timed out window.onWindowBlur && window.onWindowBlur()
+DEBUG 3/31/2020, 2:46:38 PM  shouldSendCallback
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 3/31/2020, 2:46:45 PM  app.openFile
+INFO 3/31/2020, 2:46:45 PM  addRecentDocument
+DEBUG 3/31/2020, 2:46:48 PM  path /home/josefelixrc/Documents/Projects and bussines/cpwonline/1 - General/2 - Standards/CDNs.txt, win.id = 1
+ERROR 3/31/2020, 2:46:48 PM  wrapExeFunc Timed out window.onWindowFocus && window.onWindowFocus()
+DEBUG 3/31/2020, 2:46:48 PM  shouldSendCallback
+DEBUG 3/31/2020, 2:46:52 PM  path /home/josefelixrc/Documents/Projects and bussines/cpwonline/1 - General/2 - Standards/CDNs.txt, win.id = 1
+ERROR 3/31/2020, 2:46:52 PM  wrapExeFunc Timed out window.onWindowBlur && window.onWindowBlur()
+DEBUG 3/31/2020, 2:46:52 PM  shouldSendCallback
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 3/31/2020, 4:18:07 PM  app.openFile
+INFO 3/31/2020, 4:18:07 PM  addRecentDocument
+INFO 3/31/2020, 5:43:26 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/1/2020, 1:24:53 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/1/2020, 1:24:56 PM  initCountly
+INFO 4/1/2020, 1:24:56 PM  ------------------start------------------
+INFO 4/1/2020, 1:24:56 PM  typora version: 0.9.70
+DEBUG 4/1/2020, 1:24:57 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 4/1/2020, 1:24:57 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/1/2020, 1:24:58 PM  (node:17798) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/1/2020, 1:24:58 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/1/2020, 1:24:58 PM  app.openFile
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/1/2020, 1:25:25 PM  app.openFile
+INFO 4/1/2020, 1:25:25 PM  addRecentDocument
+INFO 4/1/2020, 1:25:39 PM  window.File && (function(){		File.setTheme();	})();
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/1/2020, 1:42:35 PM  app.openFile
+INFO 4/1/2020, 1:42:35 PM  addRecentDocument
+DEBUG 4/1/2020, 1:42:45 PM  path /home/josefelixrc/Documents/Projects and bussines/cpwonline/2 - Projects/FLOSS development/starfly/starfly/README.md, win.id = 2
+ERROR 4/1/2020, 1:42:45 PM  wrapExeFunc Timed out window.onWindowBlur && window.onWindowBlur()
+DEBUG 4/1/2020, 1:42:45 PM  shouldSendCallback
+DEBUG 4/1/2020, 2:08:57 PM  app.openFile
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/1/2020, 2:15:46 PM  app.openFile
+INFO 4/1/2020, 2:15:46 PM  addRecentDocument
+DEBUG 4/1/2020, 2:15:47 PM  lastSync 1585764300041, timestamp 1585764315046, mtime 1585764923106
+DEBUG 4/1/2020, 2:21:14 PM  app.openFile
+DEBUG 4/1/2020, 4:13:26 PM  path null, win.id = 4
+ERROR 4/1/2020, 4:13:26 PM  wrapExeFunc Timed out window.onWindowFocus && window.onWindowFocus()
+DEBUG 4/1/2020, 4:13:26 PM  shouldSendCallback
+INFO 4/1/2020, 9:25:51 PM  window.File && (function(){		File.setTheme();	})();
+INFO 4/1/2020, 9:34:13 PM  addRecentDocument
+INFO 4/1/2020, 9:58:00 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/2/2020, 7:56:15 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/2/2020, 7:56:16 AM  initCountly
+INFO 4/2/2020, 7:56:17 AM  ------------------start------------------
+INFO 4/2/2020, 7:56:17 AM  typora version: 0.9.70
+DEBUG 4/2/2020, 7:56:17 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 4/2/2020, 7:56:17 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/2/2020, 7:56:18 AM  (node:2238) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/2/2020, 7:56:18 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/2/2020, 7:56:18 AM  app.openFile
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/2/2020, 7:58:16 AM  app.openFile
+INFO 4/2/2020, 7:58:16 AM  addRecentDocument
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/2/2020, 10:16:10 AM  app.openFile
+INFO 4/2/2020, 10:16:10 AM  addRecentDocument
+DEBUG 4/2/2020, 10:58:16 AM  path /home/josefelixrc/Documents/Courses/Courses/Own/Tecnología/Software/Red Hat Enterprise Linux Technical Overview.md, win.id = 1
+ERROR 4/2/2020, 10:58:16 AM  wrapExeFunc Timed out window.onWindowFocus && window.onWindowFocus()
+DEBUG 4/2/2020, 10:58:17 AM  shouldSendCallback
+INFO 4/2/2020, 2:43:40 PM  got argv [/home/josefelixrc/bin/Typora] from secondary instance
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+INFO 4/2/2020, 2:43:42 PM  secondary instance would exit
+INFO 4/2/2020, 8:05:45 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/3/2020, 8:00:06 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/3/2020, 8:00:09 AM  initCountly
+INFO 4/3/2020, 8:00:10 AM  ------------------start------------------
+INFO 4/3/2020, 8:00:10 AM  typora version: 0.9.70
+DEBUG 4/3/2020, 8:00:10 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 4/3/2020, 8:00:10 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/3/2020, 8:00:11 AM  (node:1862) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/3/2020, 8:00:11 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/3/2020, 8:00:11 AM  app.openFile
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/3/2020, 8:01:02 AM  app.openFile
+INFO 4/3/2020, 8:01:03 AM  addRecentDocument
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/3/2020, 11:50:03 AM  app.openFile
+INFO 4/3/2020, 11:50:03 AM  addRecentDocument
+INFO 4/3/2020, 4:01:03 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/6/2020, 3:55:30 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/6/2020, 3:55:32 PM  initCountly
+INFO 4/6/2020, 3:55:33 PM  ------------------start------------------
+INFO 4/6/2020, 3:55:33 PM  typora version: 0.9.70
+DEBUG 4/6/2020, 3:55:33 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 4/6/2020, 3:55:33 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/6/2020, 3:55:34 PM  (node:5128) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/6/2020, 3:55:34 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/6/2020, 3:55:34 PM  app.openFile
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/6/2020, 3:58:35 PM  app.openFile
+INFO 4/6/2020, 3:58:35 PM  addRecentDocument
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/6/2020, 4:41:52 PM  app.openFile
+INFO 4/6/2020, 4:41:52 PM  addRecentDocument
+DEBUG 4/6/2020, 5:40:59 PM  path /home/josefelixrc/Documents/Courses/Courses/Own/Tecnología/Lenguajes/wxWidgets with C++.md, win.id = 2
+ERROR 4/6/2020, 5:40:59 PM  wrapExeFunc Timed out window.onWindowBlur && window.onWindowBlur()
+DEBUG 4/6/2020, 5:41:00 PM  shouldSendCallback
+INFO 4/6/2020, 5:41:07 PM  window.File && (function(){		File.setTheme();	})();
+INFO 4/6/2020, 5:43:21 PM  window.File && (function(){		File.setTheme();	})();
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/7/2020, 12:15:38 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/7/2020, 12:15:40 PM  initCountly
+INFO 4/7/2020, 12:15:40 PM  ------------------start------------------
+INFO 4/7/2020, 12:15:40 PM  typora version: 0.9.70
+DEBUG 4/7/2020, 12:15:41 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Courses/Courses/Own/Tecnología/Software/Descompressing and installing files.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/7/2020, 12:15:41 PM  app.openFile
+INFO 4/7/2020, 12:15:41 PM  addRecentDocument
+DEBUG 4/7/2020, 12:15:43 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/7/2020, 12:15:44 PM  (node:7438) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/7/2020, 12:15:44 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 4/7/2020, 12:24:56 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/7/2020, 12:51:46 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/7/2020, 12:51:47 PM  initCountly
+INFO 4/7/2020, 12:51:47 PM  ------------------start------------------
+INFO 4/7/2020, 12:51:47 PM  typora version: 0.9.70
+DEBUG 4/7/2020, 12:51:48 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 4/7/2020, 12:51:48 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/7/2020, 12:51:48 PM  (node:8522) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/7/2020, 12:51:49 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/7/2020, 12:51:49 PM  app.openFile
+INFO 4/7/2020, 12:52:07 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/7/2020, 3:44:58 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/7/2020, 3:44:59 PM  initCountly
+INFO 4/7/2020, 3:45:00 PM  ------------------start------------------
+INFO 4/7/2020, 3:45:00 PM  typora version: 0.9.70
+DEBUG 4/7/2020, 3:45:00 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 4/7/2020, 3:45:00 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/7/2020, 3:45:01 PM  (node:12603) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/7/2020, 3:45:01 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/7/2020, 3:45:01 PM  app.openFile
+INFO 4/7/2020, 3:45:43 PM  addRecentDocument
+DEBUG 4/7/2020, 3:48:50 PM  path /home/josefelixrc/fa/reportes.md, win.id = 1
+ERROR 4/7/2020, 3:48:50 PM  wrapExeFunc Timed out window.onWindowFocus && window.onWindowFocus()
+DEBUG 4/7/2020, 3:48:50 PM  shouldSendCallback
+DEBUG 4/7/2020, 3:58:24 PM  path /home/josefelixrc/fa/reportes.md, win.id = 1
+ERROR 4/7/2020, 3:58:24 PM  wrapExeFunc Timed out window.onWindowBlur && window.onWindowBlur()
+DEBUG 4/7/2020, 3:58:24 PM  shouldSendCallback
+DEBUG 4/7/2020, 4:07:18 PM  path /home/josefelixrc/fa/reportes.md, win.id = 1
+ERROR 4/7/2020, 4:07:19 PM  wrapExeFunc Timed out window.onWindowFocus && window.onWindowFocus()
+DEBUG 4/7/2020, 4:07:19 PM  shouldSendCallback
+INFO 4/7/2020, 4:07:24 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/8/2020, 11:36:36 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/8/2020, 11:36:38 AM  initCountly
+INFO 4/8/2020, 11:36:38 AM  ------------------start------------------
+INFO 4/8/2020, 11:36:38 AM  typora version: 0.9.70
+DEBUG 4/8/2020, 11:36:39 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Courses/Courses/Own/Tecnología/Lenguajes/wxWidgets with C++.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/8/2020, 11:36:39 AM  app.openFile
+INFO 4/8/2020, 11:36:39 AM  addRecentDocument
+DEBUG 4/8/2020, 11:36:41 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/8/2020, 11:36:42 AM  (node:4166) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/8/2020, 11:36:42 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 4/8/2020, 2:50:07 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/8/2020, 4:09:26 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/8/2020, 4:09:28 PM  initCountly
+INFO 4/8/2020, 4:09:28 PM  ------------------start------------------
+INFO 4/8/2020, 4:09:28 PM  typora version: 0.9.70
+DEBUG 4/8/2020, 4:09:29 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 4/8/2020, 4:09:29 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/8/2020, 4:09:30 PM  (node:3540) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/8/2020, 4:09:30 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/8/2020, 4:09:30 PM  app.openFile
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/8/2020, 4:10:07 PM  app.openFile
+INFO 4/8/2020, 4:10:08 PM  addRecentDocument
+INFO 4/8/2020, 5:04:14 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/8/2020, 5:05:44 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/8/2020, 5:05:46 PM  initCountly
+INFO 4/8/2020, 5:05:47 PM  ------------------start------------------
+INFO 4/8/2020, 5:05:47 PM  typora version: 0.9.70
+DEBUG 4/8/2020, 5:05:47 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 4/8/2020, 5:05:47 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/8/2020, 5:05:48 PM  (node:5189) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/8/2020, 5:05:48 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/8/2020, 5:05:48 PM  app.openFile
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/8/2020, 5:06:17 PM  app.openFile
+INFO 4/8/2020, 5:06:24 PM  addRecentDocument
+DEBUG 4/8/2020, 5:53:32 PM  path /home/josefelixrc/Documents/Courses/Courses/Own/Tecnología/Software/Red Hat Enterprise Linux Technical Overview.md, win.id = 1
+ERROR 4/8/2020, 5:53:32 PM  wrapExeFunc Timed out window.onWindowBlur && window.onWindowBlur()
+DEBUG 4/8/2020, 5:53:32 PM  shouldSendCallback
+DEBUG 4/8/2020, 5:57:37 PM  path /home/josefelixrc/Documents/Courses/Courses/Own/Tecnología/Software/Red Hat Enterprise Linux Technical Overview.md, win.id = 1
+ERROR 4/8/2020, 5:57:37 PM  wrapExeFunc Timed out window.onWindowBlur && window.onWindowBlur()
+DEBUG 4/8/2020, 5:57:37 PM  shouldSendCallback
+INFO 4/8/2020, 6:01:24 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/9/2020, 11:02:37 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/9/2020, 11:02:39 AM  initCountly
+INFO 4/9/2020, 11:02:39 AM  ------------------start------------------
+INFO 4/9/2020, 11:02:39 AM  typora version: 0.9.70
+DEBUG 4/9/2020, 11:02:39 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Courses/Courses/Own/Tecnología/Software/Red Hat Enterprise Linux Technical Overview.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/9/2020, 11:02:39 AM  app.openFile
+INFO 4/9/2020, 11:02:39 AM  addRecentDocument
+DEBUG 4/9/2020, 11:02:42 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/9/2020, 11:02:43 AM  (node:9115) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/9/2020, 11:02:43 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 4/9/2020, 1:39:01 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/9/2020, 5:07:05 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/9/2020, 5:07:07 PM  initCountly
+INFO 4/9/2020, 5:07:07 PM  ------------------start------------------
+INFO 4/9/2020, 5:07:07 PM  typora version: 0.9.70
+DEBUG 4/9/2020, 5:07:08 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Courses/Courses/Own/Tecnología/Software/Software version.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/9/2020, 5:07:08 PM  app.openFile
+INFO 4/9/2020, 5:07:08 PM  addRecentDocument
+DEBUG 4/9/2020, 5:07:11 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/9/2020, 5:07:11 PM  (node:18520) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/9/2020, 5:07:12 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 4/9/2020, 5:10:47 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/13/2020, 3:51:57 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/13/2020, 3:51:59 PM  initCountly
+INFO 4/13/2020, 3:51:59 PM  ------------------start------------------
+INFO 4/13/2020, 3:51:59 PM  typora version: 0.9.70
+DEBUG 4/13/2020, 3:52:00 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 4/13/2020, 3:52:00 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/13/2020, 3:52:00 PM  (node:4122) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/13/2020, 3:52:00 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/13/2020, 3:52:00 PM  app.openFile
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/13/2020, 3:52:18 PM  app.openFile
+INFO 4/13/2020, 3:52:19 PM  addRecentDocument
+INFO 4/13/2020, 5:41:45 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/14/2020, 1:19:20 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/14/2020, 1:19:23 PM  initCountly
+INFO 4/14/2020, 1:19:23 PM  ------------------start------------------
+INFO 4/14/2020, 1:19:23 PM  typora version: 0.9.70
+DEBUG 4/14/2020, 1:19:24 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Courses/Own/Tecnología/Lenguajes/Programando en C++ y wxWidgets.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/14/2020, 1:19:24 PM  app.openFile
+INFO 4/14/2020, 1:19:24 PM  addRecentDocument
+DEBUG 4/14/2020, 1:19:28 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/14/2020, 1:19:30 PM  (node:8640) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/14/2020, 1:19:30 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 4/14/2020, 3:11:32 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/23/2020, 9:34:15 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/23/2020, 9:34:17 AM  initCountly
+INFO 4/23/2020, 9:34:17 AM  ------------------start------------------
+INFO 4/23/2020, 9:34:17 AM  typora version: 0.9.70
+DEBUG 4/23/2020, 9:34:17 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Courses/Own/Tecnología/Lenguajes/Programando en C++ y GTKmm.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/23/2020, 9:34:17 AM  app.openFile
+INFO 4/23/2020, 9:34:18 AM  addRecentDocument
+DEBUG 4/23/2020, 9:34:20 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/23/2020, 9:34:21 AM  (node:7091) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/23/2020, 9:34:22 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 4/23/2020, 10:24:46 AM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/23/2020, 12:47:47 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/23/2020, 12:47:48 PM  initCountly
+INFO 4/23/2020, 12:47:49 PM  ------------------start------------------
+INFO 4/23/2020, 12:47:49 PM  typora version: 0.9.70
+DEBUG 4/23/2020, 12:47:49 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Courses/Own/Tecnología/Lenguajes/Programando en C++ y GTKmm.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/23/2020, 12:47:49 PM  app.openFile
+INFO 4/23/2020, 12:47:49 PM  addRecentDocument
+DEBUG 4/23/2020, 12:47:52 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/23/2020, 12:47:53 PM  (node:11060) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/23/2020, 12:47:53 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/23/2020, 12:48:04 PM  path /home/josefelixrc/Documents/Courses/Own/Tecnología/Lenguajes/Programando en C++ y GTKmm.md, win.id = 1
+ERROR 4/23/2020, 12:48:04 PM  wrapExeFunc Timed out window.onWindowBlur && window.onWindowBlur()
+DEBUG 4/23/2020, 12:48:04 PM  shouldSendCallback
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/24/2020, 7:50:20 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/24/2020, 7:50:22 AM  initCountly
+INFO 4/24/2020, 7:50:22 AM  ------------------start------------------
+INFO 4/24/2020, 7:50:22 AM  typora version: 0.9.70
+DEBUG 4/24/2020, 7:50:22 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 4/24/2020, 7:50:22 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/24/2020, 7:50:23 AM  (node:2130) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/24/2020, 7:50:23 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/24/2020, 7:50:23 AM  app.openFile
+INFO 4/24/2020, 7:50:23 AM  addRecentDocument
+INFO 4/24/2020, 8:54:13 AM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/24/2020, 1:21:13 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/24/2020, 1:21:14 PM  initCountly
+INFO 4/24/2020, 1:21:15 PM  ------------------start------------------
+INFO 4/24/2020, 1:21:15 PM  typora version: 0.9.70
+DEBUG 4/24/2020, 1:21:15 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Courses/Own/Tecnología/Lenguajes/Programando en C++ y GTKmm.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/24/2020, 1:21:15 PM  app.openFile
+INFO 4/24/2020, 1:21:15 PM  addRecentDocument
+DEBUG 4/24/2020, 1:21:17 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/24/2020, 1:21:18 PM  (node:5990) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/24/2020, 1:21:19 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 4/24/2020, 2:27:45 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/25/2020, 7:37:37 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/25/2020, 7:37:39 AM  initCountly
+INFO 4/25/2020, 7:37:39 AM  ------------------start------------------
+INFO 4/25/2020, 7:37:39 AM  typora version: 0.9.70
+DEBUG 4/25/2020, 7:37:39 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Courses/Own/Tecnología/Lenguajes/Programando en C++ y GTKmm.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/25/2020, 7:37:39 AM  app.openFile
+INFO 4/25/2020, 7:37:39 AM  addRecentDocument
+DEBUG 4/25/2020, 7:37:42 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/25/2020, 7:37:43 AM  (node:1804) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/25/2020, 7:37:44 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 4/25/2020, 8:44:24 AM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/26/2020, 8:32:45 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/26/2020, 8:32:46 AM  initCountly
+INFO 4/26/2020, 8:32:47 AM  ------------------start------------------
+INFO 4/26/2020, 8:32:47 AM  typora version: 0.9.70
+DEBUG 4/26/2020, 8:32:47 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Courses/Own/Tecnología/Lenguajes/Programando en C++ y GTKmm.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/26/2020, 8:32:47 AM  app.openFile
+INFO 4/26/2020, 8:32:47 AM  addRecentDocument
+DEBUG 4/26/2020, 8:32:49 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/26/2020, 8:32:50 AM  (node:2533) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/26/2020, 8:32:50 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/26/2020, 10:59:13 AM  app.openFile
+INFO 4/26/2020, 11:01:22 AM  addRecentDocument
+INFO 4/26/2020, 2:30:09 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/2/2020, 2:14:32 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/2/2020, 2:14:33 PM  initCountly
+INFO 5/2/2020, 2:14:34 PM  ------------------start------------------
+INFO 5/2/2020, 2:14:34 PM  typora version: 0.9.70
+DEBUG 5/2/2020, 2:14:34 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 5/2/2020, 2:14:34 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/2/2020, 2:14:34 PM  (node:3786) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/2/2020, 2:14:34 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 5/2/2020, 2:14:34 PM  app.openFile
+INFO 5/2/2020, 2:15:07 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/2/2020, 4:02:21 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/2/2020, 4:02:24 PM  initCountly
+INFO 5/2/2020, 4:02:24 PM  ------------------start------------------
+INFO 5/2/2020, 4:02:24 PM  typora version: 0.9.70
+DEBUG 5/2/2020, 4:02:25 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Projects and bussines/cpwonline/1 - General/2 - Standards/Tecnología/Software/Cómo informar de clientes vencidos desde el servidor en Telegram.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/2/2020, 4:02:25 PM  app.openFile
+INFO 5/2/2020, 4:02:25 PM  addRecentDocument
+DEBUG 5/2/2020, 4:02:28 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/2/2020, 4:02:29 PM  (node:7542) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/2/2020, 4:02:29 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 5/2/2020, 4:03:07 PM  window.File && (function(){		File.setTheme();	})();
+INFO 5/2/2020, 5:25:28 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/6/2020, 11:39:46 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/6/2020, 11:39:47 AM  initCountly
+INFO 5/6/2020, 11:39:48 AM  ------------------start------------------
+INFO 5/6/2020, 11:39:48 AM  typora version: 0.9.70
+DEBUG 5/6/2020, 11:39:48 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 5/6/2020, 11:39:49 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/6/2020, 11:39:49 AM  (node:7382) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/6/2020, 11:39:49 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 5/6/2020, 11:39:49 AM  app.openFile
+INFO 5/6/2020, 11:40:25 AM  window.File && (function(){		File.setTheme();	})();
+INFO 5/6/2020, 11:40:59 AM  addRecentDocument
+INFO 5/6/2020, 1:30:03 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 4:12:03 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 4:12:05 PM  initCountly
+INFO 4/12/2019, 4:12:05 PM  ------------------start------------------
+INFO 4/12/2019, 4:12:05 PM  typora version: 0.9.70
+DEBUG 4/12/2019, 4:12:05 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Projects and bussines/cpwonline/1 - General/2 - Standards/Build.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 4:12:05 PM  app.openFile
+INFO 4/12/2019, 4:12:05 PM  addRecentDocument
+DEBUG 4/12/2019, 4:12:07 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/12/2019, 4:12:08 PM  (node:5532) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/12/2019, 4:12:08 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 4/12/2019, 9:29:22 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 3:46:27 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 3:46:29 PM  initCountly
+INFO 4/12/2019, 3:46:29 PM  ------------------start------------------
+INFO 4/12/2019, 3:46:29 PM  typora version: 0.9.70
+DEBUG 4/12/2019, 3:46:30 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 4/12/2019, 3:46:30 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/12/2019, 3:46:31 PM  (node:2284) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/12/2019, 3:46:31 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/12/2019, 3:46:31 PM  app.openFile
+INFO 4/12/2019, 3:55:37 PM  addRecentDocument
+DEBUG 4/12/2019, 3:55:41 PM  path /home/josefelixrc/Documents/Projects and bussines/cpwonline/1 - General/2 - Standards/Build.md, win.id = 1
+ERROR 4/12/2019, 3:55:41 PM  wrapExeFunc Timed out window.onWindowFocus && window.onWindowFocus()
+DEBUG 4/12/2019, 3:55:41 PM  shouldSendCallback
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 3:21:56 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 3:21:58 PM  initCountly
+INFO 4/12/2019, 3:21:58 PM  ------------------start------------------
+INFO 4/12/2019, 3:21:58 PM  typora version: 0.9.70
+DEBUG 4/12/2019, 3:21:59 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 4/12/2019, 3:21:59 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/12/2019, 3:21:59 PM  (node:2022) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/12/2019, 3:21:59 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 4/12/2019, 3:21:59 PM  app.openFile
+INFO 4/12/2019, 3:21:59 PM  addRecentDocument
+DEBUG 4/12/2019, 3:22:15 PM  path /home/josefelixrc/Documents/Projects and bussines/cpwonline/1 - General/2 - Standards/Build.md, win.id = 1
+ERROR 4/12/2019, 3:22:15 PM  wrapExeFunc Timed out window.onWindowBlur && window.onWindowBlur()
+DEBUG 4/12/2019, 3:22:15 PM  shouldSendCallback
+INFO 4/12/2019, 4:20:43 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/13/2020, 2:13:58 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/13/2020, 2:14:00 PM  initCountly
+INFO 5/13/2020, 2:14:00 PM  ------------------start------------------
+INFO 5/13/2020, 2:14:00 PM  typora version: 0.9.70
+DEBUG 5/13/2020, 2:14:00 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Projects and bussines/cpwonline/1 - General/2 - Standards/Build.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/13/2020, 2:14:00 PM  app.openFile
+INFO 5/13/2020, 2:14:00 PM  addRecentDocument
+DEBUG 5/13/2020, 2:14:03 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/13/2020, 2:14:03 PM  (node:3061) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/13/2020, 2:14:03 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/13/2020, 4:12:10 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/13/2020, 4:12:12 PM  initCountly
+INFO 5/13/2020, 4:12:12 PM  ------------------start------------------
+INFO 5/13/2020, 4:12:12 PM  typora version: 0.9.70
+DEBUG 5/13/2020, 4:12:12 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Projects and bussines/cpwonline/1 - General/2 - Standards/Build.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/13/2020, 4:12:12 PM  app.openFile
+INFO 5/13/2020, 4:12:12 PM  addRecentDocument
+DEBUG 5/13/2020, 4:12:14 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/13/2020, 4:12:15 PM  (node:8832) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/13/2020, 4:12:15 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 5/13/2020, 4:16:28 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 4:48:19 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 4:48:21 PM  initCountly
+INFO 4/12/2019, 4:48:21 PM  ------------------start------------------
+INFO 4/12/2019, 4:48:21 PM  typora version: 0.9.70
+DEBUG 4/12/2019, 4:48:22 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/Projects and bussines/cpwonline/1 - General/2 - Standards/Build.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 4:48:22 PM  app.openFile
+INFO 4/12/2019, 4:48:22 PM  addRecentDocument
+DEBUG 4/12/2019, 4:48:24 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/12/2019, 4:48:24 PM  (node:13144) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/12/2019, 4:48:24 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 4/12/2019, 4:55:15 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/21/2020, 11:43:20 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/21/2020, 11:43:22 AM  initCountly
+INFO 5/21/2020, 11:43:22 AM  ------------------start------------------
+INFO 5/21/2020, 11:43:23 AM  typora version: 0.9.70
+DEBUG 5/21/2020, 11:43:23 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 5/21/2020, 11:43:23 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/21/2020, 11:43:24 AM  (node:8116) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/21/2020, 11:43:24 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 5/21/2020, 11:43:24 AM  app.openFile
+INFO 5/21/2020, 11:43:47 AM  addRecentDocument
+INFO 5/21/2020, 12:55:35 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/21/2020, 4:14:49 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/21/2020, 4:14:50 PM  initCountly
+INFO 5/21/2020, 4:14:51 PM  ------------------start------------------
+INFO 5/21/2020, 4:14:51 PM  typora version: 0.9.70
+DEBUG 5/21/2020, 4:14:51 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 5/21/2020, 4:14:51 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/21/2020, 4:14:52 PM  (node:15212) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/21/2020, 4:14:52 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 5/21/2020, 4:14:52 PM  app.openFile
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/21/2020, 4:15:17 PM  app.openFile
+INFO 5/21/2020, 4:15:17 PM  addRecentDocument
+INFO 5/21/2020, 5:41:28 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/22/2020, 8:38:53 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/22/2020, 8:38:54 AM  initCountly
+INFO 5/22/2020, 8:38:54 AM  ------------------start------------------
+INFO 5/22/2020, 8:38:54 AM  typora version: 0.9.70
+DEBUG 5/22/2020, 8:38:55 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/projects_bussines/cpwonline/1-General/2 - Standards/Tecnología/Software/Usando CMake.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/22/2020, 8:38:55 AM  app.openFile
+INFO 5/22/2020, 8:38:55 AM  addRecentDocument
+DEBUG 5/22/2020, 8:38:58 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/22/2020, 8:38:58 AM  (node:3685) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/22/2020, 8:38:59 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/23/2020, 7:18:00 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/23/2020, 7:18:01 PM  initCountly
+INFO 5/23/2020, 7:18:01 PM  ------------------start------------------
+INFO 5/23/2020, 7:18:01 PM  typora version: 0.9.70
+DEBUG 5/23/2020, 7:18:01 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/projects_bussines/cpwonline/1-General/2 - Standards/Tecnología/Lenguajes/Introducción a la programación en C++.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/23/2020, 7:18:01 PM  app.openFile
+INFO 5/23/2020, 7:18:01 PM  addRecentDocument
+DEBUG 5/23/2020, 7:18:03 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/23/2020, 7:18:04 PM  (node:2090) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/23/2020, 7:18:04 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/24/2020, 10:33:38 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/24/2020, 10:33:40 AM  initCountly
+INFO 5/24/2020, 10:33:40 AM  ------------------start------------------
+INFO 5/24/2020, 10:33:40 AM  typora version: 0.9.70
+DEBUG 5/24/2020, 10:33:40 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/projects_bussines/cpwonline/1-General/2 - Standards/Tecnología/Software/Usando CMake.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/24/2020, 10:33:40 AM  app.openFile
+INFO 5/24/2020, 10:33:40 AM  addRecentDocument
+DEBUG 5/24/2020, 10:33:43 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/24/2020, 10:33:43 AM  (node:5369) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/24/2020, 10:33:44 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/24/2020, 10:48:46 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/24/2020, 10:48:48 AM  initCountly
+INFO 5/24/2020, 10:48:48 AM  ------------------start------------------
+INFO 5/24/2020, 10:48:48 AM  typora version: 0.9.70
+DEBUG 5/24/2020, 10:48:48 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/projects_bussines/cpwonline/1-General/2 - Standards/Tecnología/Software/Usando CMake.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/24/2020, 10:48:48 AM  app.openFile
+INFO 5/24/2020, 10:48:48 AM  addRecentDocument
+DEBUG 5/24/2020, 10:48:50 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/24/2020, 10:48:51 AM  (node:2101) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/24/2020, 10:48:51 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/24/2020, 3:18:12 PM  app.openFile
+INFO 5/24/2020, 3:18:12 PM  addRecentDocument
+INFO 5/24/2020, 7:44:15 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/24/2020, 9:51:39 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/24/2020, 9:51:40 PM  initCountly
+INFO 5/24/2020, 9:51:41 PM  ------------------start------------------
+INFO 5/24/2020, 9:51:41 PM  typora version: 0.9.70
+DEBUG 5/24/2020, 9:51:41 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/projects_bussines/cpwonline/1-General/2 - Standards/Tecnología/Lenguajes/Introducción a la programación en C++.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/24/2020, 9:51:41 PM  app.openFile
+INFO 5/24/2020, 9:51:41 PM  addRecentDocument
+DEBUG 5/24/2020, 9:51:43 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/24/2020, 9:51:44 PM  (node:2102) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/24/2020, 9:51:44 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 5/24/2020, 11:02:30 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/25/2020, 5:18:09 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/25/2020, 5:18:11 PM  initCountly
+INFO 5/25/2020, 5:18:11 PM  ------------------start------------------
+INFO 5/25/2020, 5:18:11 PM  typora version: 0.9.70
+DEBUG 5/25/2020, 5:18:12 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 5/25/2020, 5:18:12 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/25/2020, 5:18:12 PM  (node:8830) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/25/2020, 5:18:12 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 5/25/2020, 5:18:13 PM  app.openFile
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/25/2020, 5:18:39 PM  app.openFile
+INFO 5/25/2020, 5:18:40 PM  addRecentDocument
+DEBUG 5/25/2020, 5:18:47 PM  path /home/josefelixrc/Documents/projects_bussines/cpwonline/1-General/2 - Standards/Tecnología/Lenguajes/Introducción a la programación en C++.md, win.id = 1
+ERROR 5/25/2020, 5:18:47 PM  wrapExeFunc Timed out window.onWindowBlur && window.onWindowBlur()
+DEBUG 5/25/2020, 5:18:47 PM  shouldSendCallback
+INFO 5/25/2020, 5:44:27 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/27/2020, 7:27:26 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/27/2020, 7:27:27 PM  initCountly
+INFO 5/27/2020, 7:27:28 PM  ------------------start------------------
+INFO 5/27/2020, 7:27:28 PM  typora version: 0.9.70
+DEBUG 5/27/2020, 7:27:28 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/projects_bussines/cpwonline/1-General/2 - Standards/Tecnología/Lenguajes/Introducción a la programación en C++.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/27/2020, 7:27:28 PM  app.openFile
+INFO 5/27/2020, 7:27:28 PM  addRecentDocument
+DEBUG 5/27/2020, 7:27:30 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/27/2020, 7:27:31 PM  (node:2640) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/27/2020, 7:27:31 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 5/27/2020, 10:50:04 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/28/2020, 11:53:34 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/28/2020, 11:53:37 AM  initCountly
+INFO 5/28/2020, 11:53:38 AM  ------------------start------------------
+INFO 5/28/2020, 11:53:38 AM  typora version: 0.9.70
+DEBUG 5/28/2020, 11:53:38 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/projects_bussines/cpwonline/1-General/2 - Standards/Tecnología/Software/Usando CGICC.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/28/2020, 11:53:38 AM  app.openFile
+INFO 5/28/2020, 11:53:38 AM  addRecentDocument
+DEBUG 5/28/2020, 11:53:41 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/28/2020, 11:53:43 AM  (node:20920) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/28/2020, 11:53:43 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/29/2020, 7:37:36 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/29/2020, 7:37:38 AM  initCountly
+INFO 5/29/2020, 7:37:38 AM  ------------------start------------------
+INFO 5/29/2020, 7:37:38 AM  typora version: 0.9.70
+DEBUG 5/29/2020, 7:37:39 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/projects_bussines/cpwonline/1-General/2 - Standards/Tecnología/Lenguajes/Desarrollo web en C++.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 5/29/2020, 7:37:39 AM  app.openFile
+INFO 5/29/2020, 7:37:39 AM  addRecentDocument
+DEBUG 5/29/2020, 7:37:41 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 5/29/2020, 7:37:42 AM  (node:2542) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 5/29/2020, 7:37:42 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 3:21:19 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 3:21:21 PM  initCountly
+INFO 4/12/2019, 3:21:21 PM  ------------------start------------------
+INFO 4/12/2019, 3:21:21 PM  typora version: 0.9.70
+DEBUG 4/12/2019, 3:21:21 PM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/projects_bussines/cpwonline/1-General/2 - Standards/Tecnología/Lenguajes/Introducción a la programación en C++.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 4/12/2019, 3:21:21 PM  app.openFile
+INFO 4/12/2019, 3:21:21 PM  addRecentDocument
+DEBUG 4/12/2019, 3:21:23 PM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 4/12/2019, 3:21:24 PM  (node:2012) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 4/12/2019, 3:21:24 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 4/12/2019, 3:53:03 PM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 6/4/2020, 7:02:04 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 6/4/2020, 7:02:06 AM  initCountly
+INFO 6/4/2020, 7:02:06 AM  ------------------start------------------
+INFO 6/4/2020, 7:02:06 AM  typora version: 0.9.70
+DEBUG 6/4/2020, 7:02:07 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora' ]
+DEBUG 6/4/2020, 7:02:07 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 6/4/2020, 7:02:07 AM  (node:2840) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 6/4/2020, 7:02:07 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 6/4/2020, 7:02:07 AM  app.openFile
+INFO 6/4/2020, 7:02:57 AM  addRecentDocument
+DEBUG 6/4/2020, 7:03:00 AM  path /home/josefelixrc/Documents/projects_bussines/cpwonline/1-General/2 - Standards/Tecnología/Lenguajes/Introducción a la programación en C++.md, win.id = 1
+ERROR 6/4/2020, 7:03:00 AM  wrapExeFunc Timed out window.onWindowFocus && window.onWindowFocus()
+DEBUG 6/4/2020, 7:03:00 AM  shouldSendCallback
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 6/24/2020, 10:30:35 AM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 6/24/2020, 10:30:36 AM  initCountly
+INFO 6/24/2020, 10:30:37 AM  ------------------start------------------
+INFO 6/24/2020, 10:30:37 AM  typora version: 0.9.70
+DEBUG 6/24/2020, 10:30:37 AM  [ '/home/josefelixrc/bin/Typora-linux-ia32/Typora',
+  '/home/josefelixrc/Documents/projects_bussines/cpwonline/1-General/2 - Standards/Tecnología/Lenguajes/Introducción a SysML.md' ]
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 6/24/2020, 10:30:37 AM  app.openFile
+INFO 6/24/2020, 10:30:37 AM  addRecentDocument
+DEBUG 6/24/2020, 10:30:40 AM  /home/josefelixrc/bin/Typora-linux-ia32/resources/app/locales/Base.lproj/Menu.json
+ERROR 6/24/2020, 10:30:41 AM  (node:6953) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 6/24/2020, 10:30:41 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 6/24/2020, 12:22:30 PM  ------------------quit------------------

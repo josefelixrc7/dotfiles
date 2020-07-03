@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfdashboard" version="1.0">
+  <property name="theme" type="string" value="xfdashboard-dark"/>
+  <property name="favourites" type="array">
+    <value type="string" value="exo-web-browser.desktop"/>
+    <value type="string" value="exo-mail-reader.desktop"/>
+    <value type="string" value="exo-file-manager.desktop"/>
+    <value type="string" value="exo-terminal-emulator.desktop"/>
+  </property>
+  <property name="reset-search-on-resume" type="bool" value="true"/>
+  <property name="enable-unmapped-window-workaround" type="bool" value="false"/>
+  <property name="min-notification-timeout" type="uint" value="3000"/>
+  <property name="allow-subwindows" type="bool" value="true"/>
+  <property name="components" type="empty">
+    <property name="windows-view" type="empty">
+      <property name="scroll-event-changes-workspace" type="bool" value="false"/>
+    </property>
+  </property>
+  <property name="enabled-plugins" type="array">
+    <value type="string" value="clock-view"/>
+    <value type="string" value="gnome-shell-search-provider"/>
+    <value type="string" value="hot-corner"/>
+    <value type="string" value="middle-click-window-close"/>
+  </property>
+</channel>

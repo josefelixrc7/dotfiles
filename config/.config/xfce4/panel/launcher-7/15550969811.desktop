@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Tilix
+Comment=A tiling terminal for Gnome
+Exec=tilix
+Icon=com.gexperts.Tilix
+Path=
+Terminal=false
+StartupNotify=true
