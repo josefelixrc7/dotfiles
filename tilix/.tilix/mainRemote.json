@@ -1,0 +1,51 @@
+{
+    "child": {
+        "child1": {
+            "child1": {
+                "directory": "\/home\/josefelixrc",
+                "height": 260,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "5303475d-1c44-47fb-8a35-6491105ce2ab",
+                "width": 512
+            },
+            "child2": {
+                "directory": "\/home\/josefelixrc",
+                "height": 260,
+                "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+                "readOnly": false,
+                "synchronizedInput": true,
+                "type": "Terminal",
+                "uuid": "b1f9cd54-df31-417a-a38f-03cd3f3afbb1",
+                "width": 511
+            },
+            "orientation": 0,
+            "position": 50,
+            "ratio": 0.5,
+            "type": "Paned"
+        },
+        "child2": {
+            "directory": "\/home\/josefelixrc",
+            "height": 260,
+            "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+            "readOnly": false,
+            "synchronizedInput": true,
+            "type": "Terminal",
+            "uuid": "02c27276-b541-44c9-aeb3-2dd96052c7dc",
+            "width": 1024
+        },
+        "orientation": 1,
+        "position": 49,
+        "ratio": 0.499040307101727421,
+        "type": "Paned"
+    },
+    "height": 521,
+    "name": "Remote",
+    "synchronizedInput": false,
+    "type": "Session",
+    "uuid": "873b1185-bc9b-4cf7-9f91-a4b31aacd18a",
+    "version": "1.0",
+    "width": 1024
+}

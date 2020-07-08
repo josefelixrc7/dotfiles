@@ -37,6 +37,7 @@ at https://www.geany.org/manual/current/index.html#customizing-the-toolbar.
 		<separator/>
 		<toolitem action='GotoEntry' />
 		<separator/>
+		<toolitem action='Preferences' />
 
 	</toolbar>
 </ui>
