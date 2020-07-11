@@ -1,0 +1,4 @@
+#!/bin/csh
+# Sample .logout file
+echo -n "Logged out of Wiliki "
+date
