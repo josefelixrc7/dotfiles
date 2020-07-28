@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-mail-reader.desktop,exo-web-browser.desktop
-recent=codeblocks.desktop,glade_glade.desktop,org.gnome.Glade.desktop,glade-3.desktop,snap-store_snap-store.desktop,org.gnome.Software.desktop,nm-connection-editor.desktop,exo-terminal-emulator.desktop,plank.desktop,org.gnome.DiskUtility.desktop
+recent=glade_glade.desktop,firefoxDev.desktop,snap-store_snap-store.desktop,xfce-settings-manager.desktop,codeblocks.desktop,org.gnome.Glade.desktop,glade-3.desktop,org.gnome.Software.desktop,nm-connection-editor.desktop,exo-terminal-emulator.desktop
 button-title=Applications\ \ 
 button-icon=xfce4-whiskermenu
 button-single-row=false
@@ -21,7 +21,7 @@ position-commands-alternate=false
 position-categories-alternate=true
 stay-on-focus-out=false
 confirm-session-command=true
-menu-width=428
+menu-width=460
 menu-height=478
 menu-opacity=90
 command-settings=xfce4-settings-manager

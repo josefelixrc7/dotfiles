@@ -71,7 +71,7 @@ image_thumbnailstring: _thumbnail
 recent_means_recently_closed: 1
 hide_bars_on_fullscreen: 1
 backup_file: 1
-tab_color_modified: #729FCF
+tab_color_modified: #FCE94F
 editor_bg: #2E3436
 highlight_styles: XSLT:xml-declaration:preprocessor:
 highlight_styles: XSLT:xml-comment:comment:
@@ -736,7 +736,7 @@ cline_bg: #555753
 cursor_color: #EEEEEC
 autocomp_accel_string: <Control>space
 editor_replace_unicode_quotes: 0
-editor_auto_close_brackets: 2
+editor_auto_close_brackets: 1
 open_in_running_bluefish: 1
 wrap_on_right_margin: 0
 show_long_line_warning: 1
