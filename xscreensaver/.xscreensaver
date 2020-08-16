@@ -18,7 +18,7 @@ prefsCommand:	xscreensaver-demo -prefs
 nice:		10
 memoryLimit:	0
 fade:		True
-unfade:		False
+unfade:		True
 fadeSeconds:	0:00:03
 fadeTicks:	20
 captureStderr:	False
@@ -132,7 +132,6 @@ programs:								      \
 -				wander -root				    \n\
 -				webcollage -root			    \n\
 -				xflame -root				    \n\
-				xmatrix -root				    \n\
   GL: 				gflux -root				    \n\
 -				nerverot -root				    \n\
 -				xrayswarm -root				    \n\
@@ -245,6 +244,8 @@ programs:								      \
   GL: 				hilbert -root				    \n\
   GL: 				tronbit -root				    \n\
   GL: 				geodesic -root				    \n\
+				xmatrix -root				    \n\
+				gluqlo -root 				    \n\
 -				hexadrop -root				    \n\
   GL: 				kaleidocycle -root			    \n\
   GL: 				quasicrystal -root			    \n\
@@ -288,4 +289,5 @@ procInterrupts:	True
 xinputExtensionDev: False
 overlayStderr:	True
 authWarningSlack:   20
+
 
