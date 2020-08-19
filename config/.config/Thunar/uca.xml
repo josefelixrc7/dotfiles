@@ -1,4 +1,4 @@
-<?xml encoding="UTF-8" version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <actions>
 <action>
 	<icon>utilities-terminal</icon>
@@ -9,5 +9,19 @@
 	<patterns>*</patterns>
 	<startup-notify/>
 	<directories/>
+</action>
+<action>
+	<icon>find-location</icon>
+	<name>Search here</name>
+	<unique-id>1597857986015913-1</unique-id>
+	<command>catfish --path %f</command>
+	<description>Search something...</description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
 </action>
 </actions>
