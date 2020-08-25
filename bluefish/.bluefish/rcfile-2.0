@@ -9,7 +9,7 @@ editor_fg: #EEEEEC
 editor_font_string: monospace 10
 tab_color_loading: #555753
 tab_color_error: #EF2929
-editor_tab_indent_sel: 0
+editor_tab_indent_sel: 1
 clear_undo_on_save: 0
 encoding_search_Nbytes: 2048
 register_recent_mode: 2
@@ -918,7 +918,7 @@ bflang_options: HTML5:attribute_string_is_block:0:
 bflang_options: HTML5:Javascript Square brackets block_foldable:0:
 bflang_options: HTML5:Javascript Parentheses block_foldable:0:
 bflang_options: HTML5:Javascript Curly brackets block_foldable:1:
-bflang_options: HTML5:JQuery:0:
+bflang_options: HTML5:JQuery:1:
 bflang_options: Google Go:show_in_menu:1:
 bflang_options: Google Go:load_reference:1:
 bflang_options: Google Go:load_completion:1:
@@ -1027,7 +1027,7 @@ config_version: 2.2.11
 max_shown_filename_len: 0
 visible_ws: #A40000
 cursor_highlight_color: #FFFF33
-restore_dimensions: 1
+restore_dimensions: 0
 auto_update_meta_author: 1
 modified_check_type: 1
 autosave: 1
