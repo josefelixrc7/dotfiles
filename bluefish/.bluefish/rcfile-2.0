@@ -46,7 +46,7 @@ textstyles3: brackets:#ffff9a73fd40::1:0:0:
 textstyles3: warning:#FF0000::1:0:0:
 textstyles3: special-warning::#FF0000:::0:
 textstyles3: none:::::
-highlight_cursor: 0
+highlight_cursor: 1
 autosave_file_suffix: #
 auto_update_meta_date: 1
 leave_to_window_manager: 0
@@ -891,7 +891,7 @@ bflang_options: Javascript:javascript_object_methods:1:
 bflang_options: Javascript:javascript_css_properties:1:
 bflang_options: Javascript:autocomplete_with_newlines:0:
 bflang_options: Javascript:autocomplete_javascript_var:1:
-bflang_options: Javascript:JQuery:0:
+bflang_options: Javascript:JQuery:1:
 bflang_options: Java:show_in_menu:1:
 bflang_options: Java:load_reference:1:
 bflang_options: Java:load_completion:1:
@@ -993,7 +993,7 @@ bflang_options: ASP:load_reference:1:
 bflang_options: ASP:load_completion:1:
 use_system_tab_font: 1
 backup_cleanuponclose: 0
-autocomp_min_prefix_len: 1
+autocomp_min_prefix_len: 2
 delay_full_scan: 1
 max_recent_files: 15
 external_outputbox: 1:make:([a-zA-Z0-9/_.-]+)\:([0-9]+)\:(.*):1:2:3:cd %c && make|:
