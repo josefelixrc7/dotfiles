@@ -18,13 +18,15 @@
       <property name="nrows" type="uint" value="1"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="19"/>
-        <value type="int" value="3"/>
+        <value type="int" value="2"/>
         <value type="int" value="13"/>
+        <value type="int" value="3"/>
+        <value type="int" value="16"/>
         <value type="int" value="5"/>
         <value type="int" value="15"/>
         <value type="int" value="9"/>
         <value type="int" value="6"/>
-        <value type="int" value="1"/>
+        <value type="int" value="4"/>
       </property>
       <property name="position" type="string" value="p=6;x=0;y=0"/>
       <property name="position-locked" type="bool" value="true"/>
@@ -37,6 +39,7 @@
       <property name="length" type="uint" value="1"/>
       <property name="mode" type="uint" value="0"/>
       <property name="plugin-ids" type="array">
+        <value type="int" value="17"/>
         <value type="int" value="8"/>
         <value type="int" value="7"/>
         <value type="int" value="12"/>
@@ -144,7 +147,6 @@
       <property name="expand" type="bool" value="true"/>
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-3" type="string" value="places"/>
     <property name="plugin-10" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="15550974951.desktop"/>
@@ -158,13 +160,17 @@
         <value type="string" value="15550975263.desktop"/>
       </property>
     </property>
-    <property name="plugin-1" type="string" value="launcher">
+    <property name="plugin-2" type="string" value="windowmenu"/>
+    <property name="plugin-3" type="string" value="notification-plugin"/>
+    <property name="plugin-4" type="string" value="xfce4-mount-plugin"/>
+    <property name="plugin-16" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-17" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="155509855912.desktop"/>
-        <value type="string" value="15550970431.desktop"/>
+        <value type="string" value="15998433953.desktop"/>
+        <value type="string" value="15998432982.desktop"/>
       </property>
-      <property name="show-label" type="bool" value="false"/>
-      <property name="arrow-position" type="uint" value="3"/>
     </property>
   </property>
 </channel>
