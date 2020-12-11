@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<note version="0.3" xmlns:link="http://beatniksoftware.com/tomboy/link" xmlns:size="http://beatniksoftware.com/tomboy/size" xmlns="http://beatniksoftware.com/tomboy"><title>Aplicación y auditoría de Sistemas de Información</title><text xml:space="preserve"><note-content version="0.1" xmlns:link="http://beatniksoftware.com/tomboy/link" xmlns:size="http://beatniksoftware.com/tomboy/size">Aplicación y auditoría de Sistemas de Información
+
+<bold><size:large>Básico</size:large></bold>
+
+<list><list-item dir="ltr">Profesor: Guedez Juan Carlos</list-item></list>
+
+<bold><size:large>Asignaciones</size:large></bold>
+
+<bold>1. Informe I</bold>
+
+Informe individual, se debe utilizar una cuartilla para dar respuesta a cada pregunta. Usar letra Times New Roman 12 y espaciado 1.5cm. Sustentar con citas las respuestas y argumentación de parte del autor. 
+
+Básico:
+<list><list-item dir="ltr">Fecha de entrega: Martes 15-12-2020
+</list-item><list-item dir="ltr">Enviar al correo <link:url>guedez.juan@gmail.com</link:url>
+</list-item><list-item dir="ltr">Ponderación: 
+<list><list-item dir="ltr">Informe: 6 puntos
+</list-item><list-item dir="ltr">Socialización: 4 puntos
+</list-item></list></list-item><list-item dir="ltr">Estructura:
+<list><list-item dir="ltr">Portada
+</list-item><list-item dir="ltr">Desarrollo
+</list-item><list-item dir="ltr">Referencias bibliográficas</list-item></list></list-item></list>
+
+Preguntas:
+<list><list-item dir="ltr">Explique qué es un sistema de información y cuál es su ciclo de vida
+</list-item><list-item dir="ltr">Diferencias entre un sistema de información en desarrollo y sistema de información implementado
+</list-item><list-item dir="ltr">En qué consiste la implementación de un sistema de información
+</list-item><list-item dir="ltr">Explique brevemente la importancia de certificar la calidad de un sistema de información, previo a su implementación</list-item></list>
+</note-content>
+</text><last-change-date>2020-12-09T23:21:19.008922Z</last-change-date><last-metadata-change-date>2020-12-09T23:21:19.012463Z</last-metadata-change-date><create-date>2020-12-09T23:11:49.972879Z</create-date><cursor-position>542</cursor-position><selection-bound-position>-1</selection-bound-position><width>0</width><height>0</height><tags><tag>system:notebook:UDO</tag></tags></note>
+

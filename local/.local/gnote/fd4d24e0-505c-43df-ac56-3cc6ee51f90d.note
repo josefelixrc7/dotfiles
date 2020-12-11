@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<note version="0.3" xmlns:link="http://beatniksoftware.com/tomboy/link" xmlns:size="http://beatniksoftware.com/tomboy/size" xmlns="http://beatniksoftware.com/tomboy"><title>Comenzar aquí</title><text xml:space="preserve"><note-content version="0.1" xmlns:link="http://beatniksoftware.com/tomboy/link" xmlns:size="http://beatniksoftware.com/tomboy/size">Comenzar aquí
+
+<bold>Bienvenido a Gnote</bold>
+
+Use esta nota «Comenzar aquí» para empezar a organizar sus ideas y pensamientos.
+
+Puede crear notas nuevas para mantener sus ideas seleccionando el elemento «Crear nota nueva» del menú de Gnote en el panel de GNOME. Su nota se guardará automáticamente.
+
+Después organice las notas que cree enlazando las notas relacionadas y sus ideas de una forma conjunta.
+
+Hemos creado una nota llamada <link:broken>Usando enlaces en Gnote</link:broken>. ¿Se ha dado cuenta de que cada vez que escribimos <link:broken>Usando enlaces en Gnote</link:broken> automáticamente aparece subrayado? Pulse en el enlace para abrir la nota.</note-content>
+</text><last-change-date>2020-12-09T19:50:53.477192Z</last-change-date><last-metadata-change-date>2020-12-09T20:01:25.450809Z</last-metadata-change-date><create-date>2020-12-09T19:50:53.384851Z</create-date><cursor-position>58</cursor-position><selection-bound-position>-1</selection-bound-position><width>450</width><height>400</height></note>
+

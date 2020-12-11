@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<note version="0.3" xmlns:link="http://beatniksoftware.com/tomboy/link" xmlns:size="http://beatniksoftware.com/tomboy/size" xmlns="http://beatniksoftware.com/tomboy"><title>Usar los enlaces en Gnote</title><text xml:space="preserve"><note-content version="0.1" xmlns:link="http://beatniksoftware.com/tomboy/link" xmlns:size="http://beatniksoftware.com/tomboy/size">Usar enlaces en Gnote
+
+Las notas en Gnote se pueden enlazar subrayando el texto en la nota actual y pulsando el botón <bold>Enlazar</bold> en la barra de herramientas. Al hacerlo se creará una nueva nota así como subrayar el título de la nueva nota en la nota actual.
+
+Cambiar el título de una nota hará que se actualicen los enlaces presentes en otras notas. Esto previene que aparezcan enlaces rotos cuando se renombra una nota.
+
+Además, si escribe el nombre de otra nota en su nota actual, se enlazará automáticamente.</note-content>
+</text><last-change-date>2020-12-09T19:50:53.498693Z</last-change-date><last-metadata-change-date>2020-12-09T19:50:53.498693Z</last-metadata-change-date><create-date>2020-12-09T19:50:53.481697Z</create-date><cursor-position>74</cursor-position><selection-bound-position>96</selection-bound-position><width>0</width><height>0</height></note>
+
