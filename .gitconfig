@@ -1,0 +1,8 @@
+[user]
+	name = Jose Felix Rivas Carrasco
+	email = josefelixrc@outlook.com
+[gui]
+	recentrepo = 
+
+[commit]
+	gpgsign = false

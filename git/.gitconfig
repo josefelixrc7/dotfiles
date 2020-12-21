@@ -1,8 +1,0 @@
-[user]
-	name = Jose Felix Rivas Carrasco
-	email = josefelixrc@outlook.com
-[gui]
-	recentrepo = /var/www/html/fams
-	recentrepo = /run/media/josefelixrc/b6c3fdac-55db-472f-b8f7-ca5613fd4123/josefelixrc/Documents/projects_bussines/cpwonline/2-Projects/Desktop_apps/cpw-calc/net.cpwonline.cpw-calc
-[commit]
-	gpgsign = false
