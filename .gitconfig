@@ -1,9 +1,9 @@
 [user]
 	name = Jose Felix Rivas Carrasco
 	email = josefelixrc@outlook.com
-	signingkey = 6469F4C2BF44F96F
+	signingkey = A4E4314F04BDAB56
 [gui]
 	recentrepo = 
 
 [commit]
-	gpgsign = false
+	gpgsign = true
