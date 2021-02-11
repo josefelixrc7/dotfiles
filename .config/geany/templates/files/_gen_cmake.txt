@@ -54,3 +54,9 @@ endif()
 enable_testing()
 add_executable(test_main "tests/test_main.cc")
 add_test(nombre_del_test test_main)
+
+# Other options
+file(
+	COPY "${CMAKE_CURRENT_SOURCE_DIR}/share/cpw-calc_128x128.png"
+	DESTINATION ${CMAKE_CURRENT_BINARY_DIR}
+)
