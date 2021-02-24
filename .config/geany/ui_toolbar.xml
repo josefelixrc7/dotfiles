@@ -19,23 +19,17 @@ at https://www.geany.org/manual/current/index.html#customizing-the-toolbar.
 		<toolitem action='Open' />
 		<toolitem action='Save' />
 		<toolitem action='SaveAll' />
+		<toolitem action='CloseAll' />
 		<separator/>
-		<toolitem action='Reload' />
-		<toolitem action='Close' />
-		<separator/>
-		<toolitem action='NavBack' />
-		<toolitem action='NavFor' />
+		<toolitem action='Undo' />
+		<toolitem action='Redo' />
 		<separator/>
 		<toolitem action='Compile' />
 		<toolitem action='Build' />
 		<toolitem action='Run' />
 		<separator/>
-		<toolitem action='Color' />
-		<separator/>
 		<toolitem action='SearchEntry' />
-		<toolitem action='Search' />
 		<separator/>
-		<toolitem action='Preferences' />
 
 	</toolbar>
 </ui>
